@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Han Kun Ren"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Han Kun Ren"
 description              : &description "personal description"
